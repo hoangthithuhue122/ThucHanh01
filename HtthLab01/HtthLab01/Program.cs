@@ -1,9 +1,23 @@
+﻿using Microsoft.EntityFrameworkCore;
+using HtthLab01.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// 1. Đăng ký SchoolContext để kết nối SQL Server
+builder.Services.AddDbContext<SchoolContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SchoolContext")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+// 2. Khởi tạo dữ liệu mẫu (gọi DbInitializer) khi chạy ứng dụng
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    DbInitializer.Initialize(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\learner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\shared\\htthmylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\shared\\htthmylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\learner\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\shared\\htthmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\shared\\htthmylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\controllers\\learnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\learner\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\views\\learner\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|d:\\thietkeweb1\\th\u1EF1c h\u00E0nh\\bu\u1ED5i 1\\htthlab01\\htthlab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59B7E0A-D47D-483A-86FD-31FFED71D507}|HtthLab01\\HtthLab01.csproj|solutionrelative:htthlab01\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +62,178 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "HtthLab01\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T00:39:39.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HtthLab01\\Views\\Learner\\Delete.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Delete.cshtml",
+              "RelativeToolTip": "HtthLab01\\Views\\Learner\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T02:13:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HtthLab01\\Views\\Learner\\Edit.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Edit.cshtml",
+              "RelativeToolTip": "HtthLab01\\Views\\Learner\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T02:11:59.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "HtthLab01\\Views\\Learner\\Index.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "HtthLab01\\Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T01:59:13.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\MenuItem.cs",
+              "RelativeToolTip": "HtthLab01\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T02:03:41.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Create.cshtml",
+              "RelativeDocumentMoniker": "HtthLab01\\Views\\Learner\\Create.cshtml",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Learner\\Create.cshtml",
+              "RelativeToolTip": "HtthLab01\\Views\\Learner\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T02:02:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LearnerController.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Controllers\\LearnerController.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Controllers\\LearnerController.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Controllers\\LearnerController.cs",
+              "RelativeToolTip": "HtthLab01\\Controllers\\LearnerController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAqwGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:58:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Enrollment.cs",
+              "RelativeToolTip": "HtthLab01\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:50:45.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Models\\Course.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Course.cs",
+              "RelativeToolTip": "HtthLab01\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:50:17.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Learner.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Models\\Learner.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Learner.cs",
+              "RelativeToolTip": "HtthLab01\\Models\\Learner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:49:54.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Major.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Models\\Major.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\Major.cs",
+              "RelativeToolTip": "HtthLab01\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:49:31.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Program.cs",
+              "RelativeDocumentMoniker": "HtthLab01\\Program.cs",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Program.cs",
+              "RelativeToolTip": "HtthLab01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T01:39:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\appsettings.json",
+              "RelativeDocumentMoniker": "HtthLab01\\appsettings.json",
+              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\appsettings.json",
+              "RelativeToolTip": "HtthLab01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-26T01:33:43.688Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -43,84 +241,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HtthMyLayoutHelper.cshtml",
-              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Shared\\HtthMyLayoutHelper.cshtml",
-              "RelativeDocumentMoniker": "HtthLab01\\Views\\Shared\\HtthMyLayoutHelper.cshtml",
-              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Shared\\HtthMyLayoutHelper.cshtml",
-              "RelativeToolTip": "HtthLab01\\Views\\Shared\\HtthMyLayoutHelper.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T04:27:23.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RenderLeftMenu.cshtml",
-              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeDocumentMoniker": "HtthLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "RelativeToolTip": "HtthLab01\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwDkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T04:08:34.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RenderViewComponent.cs",
-              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\ViewComponents\\RenderViewComponent.cs",
-              "RelativeDocumentMoniker": "HtthLab01\\ViewComponents\\RenderViewComponent.cs",
-              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\ViewComponents\\RenderViewComponent.cs",
-              "RelativeToolTip": "HtthLab01\\ViewComponents\\RenderViewComponent.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T03:57:02.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "HtthLab01\\Models\\MenuItem.cs",
-              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Models\\MenuItem.cs",
-              "RelativeToolTip": "HtthLab01\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T03:55:01.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HtthMyLayout.cshtml",
-              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Shared\\HtthMyLayout.cshtml",
-              "RelativeDocumentMoniker": "HtthLab01\\Views\\Shared\\HtthMyLayout.cshtml",
-              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Shared\\HtthMyLayout.cshtml",
-              "RelativeToolTip": "HtthLab01\\Views\\Shared\\HtthMyLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T03:52:51.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Student\\Index.cshtml",
-              "RelativeDocumentMoniker": "HtthLab01\\Views\\Student\\Index.cshtml",
-              "ToolTip": "D:\\ThietKeWeb1\\Th\u1EF1c h\u00E0nh\\Bu\u1ED5i 1\\HtthLab01\\HtthLab01\\Views\\Student\\Index.cshtml",
-              "RelativeToolTip": "HtthLab01\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T03:48:34.155Z",
-              "EditorCaption": ""
             }
           ]
         }

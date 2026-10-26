@@ -70,9 +70,31 @@ namespace HtthLab01.Controllers
             return View(listStudents);
         }
 
-        [HttpGet]
-        public IActionResult Create()
+        [HttpPost]
+        public IActionResult Create(Student s)
         {
+            if (ModelState.IsValid)
+            {
+                if (s.AvatarFile != null)
+                {
+                    string uploadFolder = Path.Combine(_env.WebRootPath, "images");
+                    if (!Directory.Exists(uploadFolder))
+                    {
+                        Directory.CreateDirectory(uploadFolder);
+                    }
+                    string fileName = Guid.NewGuid().ToString() + "_" + s.AvatarFile.FileName.Replace(" ", "");
+                    string filePath = Path.Combine(uploadFolder, fileName);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        s.AvatarFile.CopyTo(fileStream);
+                    }
+                    s.AvatarUrl = "/images/" + fileName;
+                }
+                s.Id = listStudents.Last<Student>().Id + 1;
+                listStudents.Add(s);
+                return View("Index", listStudents);
+            }
             ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
             ViewBag.AllBranches = new List<SelectListItem>()
             {
@@ -82,29 +104,6 @@ namespace HtthLab01.Controllers
                 new SelectListItem() {Text = "EE", Value = "4" },
             };
             return View();
-        }
-        [HttpPost]
-        public IActionResult Create(Student s)
-        {
-            if(s.AvatarFile != null)
-            {
-                string uploadFolder = Path.Combine(_env.WebRootPath, "images");
-                if (!Directory.Exists(uploadFolder))
-                {
-                    Directory.CreateDirectory(uploadFolder);
-                }
-                string fileName = Guid.NewGuid().ToString() + "_" + s.AvatarFile.FileName.Replace(" ", "");
-                string filePath = Path.Combine(uploadFolder, fileName);
-
-                using (var fileStream = new FileStream(filePath, FileMode.Create))
-                {
-                    s.AvatarFile.CopyTo(fileStream);
-                }
-                s.AvatarUrl = "/images/" + fileName;
-            }
-            s.Id = listStudents.Last<Student>().Id +1;
-            listStudents.Add(s);
-            return View("Index", listStudents);
         }
     }
 }

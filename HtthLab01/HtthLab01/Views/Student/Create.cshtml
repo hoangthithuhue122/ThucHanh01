@@ -1,45 +1,60 @@
 ﻿@model Student
+
 <div>
-    // hoang thi thu hue
     <form asp-controller="Student" asp-action="Create" method="post" class="mt-3" enctype="multipart/form-data">
+
+        <!-- Hiển thị tổng hợp lỗi của Model -->
+        <div asp-validation-summary="All" class="text-danger"></div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="Name" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <input asp-for="Name" class="form-control" placeholder="Họ tên">
+                <span asp-validation-for="Name" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="Email" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <input asp-for="Email" class="form-control" placeholder="Email">
+                <span asp-validation-for="Email" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="Password" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <input asp-for="Password" class="form-control" placeholder="Password">
+                <span asp-validation-for="Password" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="Branch" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <select asp-for="Branch" class="custom-select mr-sm-2"
                         asp-items="Html.GetEnumSelectList<Branch>()"></select>
-                @*<select asp-for="Gender" asp-items="ViewBag.AllBranches"></select>*@
+                <span asp-validation-for="Branch" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="IsRegular" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <input type="checkbox" class="custom-control-input" asp-for="IsRegular">
+                <span asp-validation-for="IsRegular" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="DateOfBirth" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <input asp-for="DateOfBirth" class="form-control">
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="Gender" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
@@ -50,25 +65,27 @@
                                id="Gender@(gender)" />@gender<br />
                     </label>
                 }
+                <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="Address" class="col-sm-2 col-form-label"></label>
             <div class="col-sm-10">
                 <textarea asp-for="Address" class="form-control"
                           placeholder="Địa chỉ"></textarea>
+                <span asp-validation-for="Address" class="text-danger"></span>
             </div>
         </div>
-        <div style="margin-top:10px" class="form-group row">
-            <div class="col-sm-10">
-            </div>
-        </div>
+
         <div style="margin-top:7px" class="form-group row">
             <label asp-for="AvatarFile" class="col-sm-2 col-form-label">Ảnh đại diện</label>
             <div class="col-sm-10">
                 <input type="file" asp-for="AvatarFile" class="form-control" accept="image/*">
+                <span asp-validation-for="AvatarFile" class="text-danger"></span>
             </div>
         </div>
+
         <div style="margin-top:10px" class="form-group row">
             <div class="col-sm-10">
                 <button type="submit" class="btn btn-primary">Create</button>
