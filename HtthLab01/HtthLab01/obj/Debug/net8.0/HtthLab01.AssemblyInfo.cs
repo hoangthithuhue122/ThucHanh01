@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HtthLab01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21f77b181f5053b15fcda5344eb9a4826657191c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9abfd9628caa866530afffb76552a220e6fde6ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("HtthLab01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HtthLab01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
